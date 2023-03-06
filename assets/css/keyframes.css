@@ -1,0 +1,12 @@
+@keyframes carleft {
+
+    0% {left: 0;}
+    100% {left: 100%;}
+
+}
+
+@keyframes carright {
+    
+    from {right:0;}
+    to{ right:100%;}
+}
